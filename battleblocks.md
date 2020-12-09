@@ -1,4 +1,9 @@
-[<< Back to home](README.md)
+---
+title: Battle Blocks
+permalink: /battle-blocks/
+---
+
+[<< Back to home](index.md)
 
 # Battle Blocks (Spring 2020)
 

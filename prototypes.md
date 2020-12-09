@@ -1,4 +1,9 @@
-[<< Back to home](README.md)
+---
+title: Weekly Prototypes
+permalink: /prototypes/
+---
+
+[<< Back to home](index.md)
 
 # Prototypes (Fall 2020)
 

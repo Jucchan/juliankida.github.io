@@ -1,12 +1,5 @@
-## [My Linkedin Profile](https://www.linkedin.com/in/juliankida/)
+# Julian Kida's Games Portfolio
 
-## [Play some games at my itch page](https://julian-kida.itch.io/)
+This is the repository for my games portfolio: its a bit janky right now but you can visit it at
 
-# **Projects**
-
-## [Battle Blocks (Spring 2020)](battleblocks.md)
-[{% include image.html url="/images/battle_blocks_title.jpg" style="width:100%; height:100%; display:block; margin:0 auto" %}](battleblocks.md)
-
-
-## [Weekly Prototypes (Fall 2020)](prototypes.md)
-[{% include image.html url="/images/spincook_title.png" style="width:100%; height:100%; display:block; margin:0 auto" %}](prototypes.md)
+# https://jucchan.github.io
