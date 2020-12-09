@@ -4,7 +4,7 @@
 
 # Battle Blocks (Spring 2020)
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/6rH1WSwHxZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div><iframe width="560" height="315" src="http://www.youtube.com/embed/6rH1WSwHxZM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe></div>
 
 A local multiplayer game where you arrange blocks to build robots that duel each other in physics-based 2D combat.
 
@@ -16,6 +16,6 @@ Battle Blocks was developed in Unity. I mostly handled implementing the building
 
 Blocks that have no path to the robot's electrical core lose power and get destroyed, so I also needed to be able to determine whether one block being destroyed would disconnect other blocks. I solved this by treating the robots as a graph where blocks are vertices and connections are edges, then performing depth first search to determine which blocks were reachable from the core. For example, in the following image the red nodes are no longer reachable from the core:
 
-<div style="text-align: center"><img src="battle_blocks_graph.png" width=20% height=20%></div>
+<div style="text-align: center"><img src="battle_blocks_graph.png" width=20% height=20%/></div>
 
 Through Battle Blocks, I also learned about Unity's newer Input System package and implemented support for Gamepads and GameCube Controllers.
