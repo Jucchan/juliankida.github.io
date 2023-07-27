@@ -1,0 +1,62 @@
+---
+---
+
+$section-headings-color: green;
+
+@import "{{ site.theme }}";
+
+.main-content{
+    padding: 5rem 0rem;
+    max-width: 80rem;
+}
+
+.page-header {
+    position: fixed;
+    width: 100%;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.navbar {
+    font-size: 2rem;
+}
+
+.navbar .project-name {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.navbar-title {
+    float:left;
+}
+
+.navbar-title a{
+    color:white;
+}
+
+.navbar-menu {
+    float:right;
+}
+
+.navbar-menu ul {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-left: 0px;
+}
+
+.navbar-menu li {
+    display: inline-block;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    padding-right: 1rem;
+}
+
+.navbar-menu a {
+    color: white;
+}
+
+
+.navbar-title a:hover, .navbar-title a:focus, 
+.navbar-menu a:hover, .navbar-menu a:focus{
+    color: yellow;
+    text-decoration: none;
+}

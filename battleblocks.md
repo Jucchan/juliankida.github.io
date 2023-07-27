@@ -1,6 +1,7 @@
 ---
 title: Battle Blocks
 permalink: /battle-blocks/
+published: false
 ---
 
 [<< Back to home](index.md)
