@@ -1,10 +1,10 @@
 ---
 title: Battle Blocks
-permalink: /battle-blocks/
+permalink: /projects/battle-blocks
 published: false
 ---
 
-[<< Back to home](index.md)
+[<< Back to home](/)
 
 # Battle Blocks (Spring 2020)
 
@@ -22,6 +22,6 @@ Battle Blocks was developed in Unity. I mostly handled implementing the building
 
 Blocks that have no path to the robot's electrical core lose power and get destroyed, so I also needed to be able to determine whether one block being destroyed would disconnect other blocks. I solved this by treating the robots as a graph where blocks are vertices and connections are edges, then performing depth first search to determine which blocks were reachable from the core. For example, in the following image the red nodes are no longer reachable from the core:
 
-{% include image.html url="/images/battle_blocks_graph.png" style="width:30%; height:30%; display:block; margin:0 auto" %} 
+{% include image.html url="/images/battle_blocks_graph.png" %} 
 
 Through Battle Blocks, I also learned about Unity's newer Input System package and implemented support for Gamepads and GameCube Controllers.

@@ -6,17 +6,15 @@ title: Julian Kida's Games Portfolio
 
 ## [Play some games at my itch.io page](https://julian-kida.itch.io/)
 
-# **Projects**
+# Projects
 
 ## That's Not How It Happened! (Summer 2021 ~ Spring 2022)
 
 
-## Crescendo (Summer 2020 ~ Spring 2021)
-Page Under Construction
+## [Crescendo (Summer 2020 ~ Spring 2021)](/projects/crescendo)
+[{% include image.html url="/images/crescendo.jpg"  %}](/projects/crescendo)
 
-
-
-## [Weekly Prototypes (Fall 2020)](prototypes.md)
-[{% include image.html url="/images/spincook_title.png" style="width:100%; height:100%; display:block; margin:0 auto" %}](prototypes.md)
+## [Weekly Prototypes (Fall 2020)](/projects/prototypes)
+[{% include image.html url="/images/spincook_title.png"  %}](/projects/prototypes)
 
 
