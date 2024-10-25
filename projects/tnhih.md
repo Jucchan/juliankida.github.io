@@ -64,6 +64,6 @@ permalink: /projects/tnhih
 
 ## Project and role overview
 
-[Meny Menczel](https://newlowscore.itch.io/)
+ [Meny Menczel](https://newlowscore.itch.io/) to 
 
 ## Takeaways

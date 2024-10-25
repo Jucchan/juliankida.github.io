@@ -2,9 +2,12 @@
 title: Julian Kida's Games Portfolio
 ---
 
-## [My Linkedin Profile](https://www.linkedin.com/in/juliankida/)
-
-## [Play some games at my itch.io page](https://julian-kida.itch.io/)
+<div class="itch-link">
+    <span>
+        <img src="/images/itch.png">
+        <a href="{{ include.url }}">Play some games at my itch.io page</a>
+    </span>
+</div>
 
 # Featured Projects
 

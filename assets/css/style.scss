@@ -18,6 +18,7 @@ $section-headings-color: green;
 }
 
 .page-header {
+    z-index:10;
     @include large {
         position: fixed;
         width: 100%;
