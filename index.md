@@ -16,7 +16,7 @@ title: Julian Kida's Games Portfolio
     url="/projects/tnhih" 
     title="That's Not How It Happened" 
     date="(Summer 2021 ~ Spring 2022)" 
-    role="Design Lead"
+    role="Lead Designer"
     image="/images/tnhih_poster.jpg" %}
 
     {% include project-box.html 
@@ -30,7 +30,7 @@ title: Julian Kida's Games Portfolio
     url="/projects/prototypes" 
     title="Weekly Prototypes" 
     date="(Fall 2020)" 
-    role="Main Design, Main Engineer"
+    role="Main Designer, Main Engineer"
     image="/images/disco_typing_gameplay.png" %}
 </div>
 
@@ -42,7 +42,7 @@ title: Julian Kida's Games Portfolio
     url="/projects/battle-blocks" 
     title="Battle Blocks" 
     date="(Spring 2020)" 
-    role="Main Design, Main Engineer"
+    role="Main Designer, Main Engineer"
     image="/images/battle_blocks_title.jpg" %}
 </div>
 
