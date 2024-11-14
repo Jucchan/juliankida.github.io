@@ -17,7 +17,7 @@ title: Julian Kida's Games Portfolio
 </div>
 
 # About me
-I'm **Julian Kida**, a game designer and programmer. I graduated from University of Southern California's Viterbi School of Engineering with an undergraduate degree in Computer Science (Games) in 2021, and with a M.S. in Computer Science in 2023. My main skills are gameplay design, game prototyping, and my ability to speak Japanese natively. Aside from video games, I enjoy riichi mahjong and watching baseball/horseracing. 
+I'm **Julian Kida**, a game designer and programmer. I graduated from University of Southern California's Viterbi School of Engineering with an undergraduate degree in Computer Science (Games) in 2021, and with a M.S. in Computer Science in 2023. My main skills are gameplay design, game prototyping, and my ability to speak Japanese natively. I was the president and tournament organizer for the Smash Bros. club, as well as the captain for the Smash Bros. and Hearthstone Esports teams at USC. Aside from video games, I enjoy riichi mahjong and watching baseball/horseracing. 
 
 ### About this site
 This site is published on GitHub Pages. I tried to make it responsive for the most-part, but no guarantees. You can find the [sourcecode here.](https://github.com/Jucchan/jucchan.github.io)

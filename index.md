@@ -23,20 +23,27 @@ title: Julian Kida's Games Portfolio
     url="/projects/crescendo" 
     title="Crescendo" 
     date="(Summer 2020 ~ Spring 2021)" 
-    role="Gameplay Engineer"
+    role="Gameplay Engineer (Unity)"
     image="/images/crescendo.jpg" %}
 
-    {% include project-box.html 
-    url="/projects/prototypes" 
-    title="Weekly Prototypes" 
-    date="(Fall 2020)" 
-    role="Main Designer, Main Engineer"
-    image="/images/disco_typing_gameplay.png" %}
 </div>
 
 # More Projects
 
 <div class="project-container">
+    {% include sub-project-box.html 
+    url="/projects/prime-engine" 
+    title="Dimension Flip Demo" 
+    date="(Fall 2022)" 
+    role="Engineer (C++)"
+    image="/images/prime_engine.png" %}
+
+    {% include sub-project-box.html 
+    url="/projects/prototypes" 
+    title="Weekly Prototypes" 
+    date="(Fall 2020)" 
+    role="Main Designer, Main Engineer"
+    image="/images/disco_typing_gameplay.png" %}
 
     {% include sub-project-box.html 
     url="/projects/battle-blocks" 
