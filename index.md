@@ -32,6 +32,13 @@ title: Julian Kida's Games Portfolio
 
 <div class="project-container">
     {% include sub-project-box.html 
+    url="/projects/forerunners" 
+    title="The Forerunners Gospel" 
+    date="(Summer 2021 ~ Summer 2023)" 
+    role="Mobile Systems Engineer (Monetization, Publishing, Unity)"
+    image="/images/butterfly_logo_edit.png" %}
+
+    {% include sub-project-box.html 
     url="/projects/prime-engine" 
     title="Dimension Flip Demo" 
     date="(Fall 2022)" 
